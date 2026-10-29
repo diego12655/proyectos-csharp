@@ -1,0 +1,1 @@
+Pequeña aplicación de consola en C# para practicar lógica, bucles for y condicionales.
